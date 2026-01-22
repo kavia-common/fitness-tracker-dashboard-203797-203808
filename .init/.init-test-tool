@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/fitness-tracker-dashboard-203797-203808/gym_app_backend"
+}
